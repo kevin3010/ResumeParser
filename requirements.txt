@@ -1,4 +1,6 @@
 openai
 pydantic
+pydantic-settings
 python-dotenv
 gradio
+PyPDF2
